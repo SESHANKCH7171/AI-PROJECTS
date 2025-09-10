@@ -5,4 +5,6 @@ PROJECTS USING AI
 
 2) Created a Whatsapp Chatbot for Lead Generation using Javascript to a website :- seshankch.com
    
-3) 
+3) Creating a BG remover for the photos.
+
+4) 
