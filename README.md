@@ -7,4 +7,4 @@ PROJECTS USING AI
    
 3) Creating a BG remover for the photos.
 
-4) 
+4) BUilding a basic RAG application
