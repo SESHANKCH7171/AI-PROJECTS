@@ -7,3 +7,5 @@
 3) Creating a BG remover for the photos.
 
 4) BUilding a basic RAG application
+
+5) Built a ChatBot for Company support within the organisation
